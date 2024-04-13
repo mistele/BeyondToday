@@ -19,7 +19,7 @@ Copyright (C) Microsoft Corporation. All rights reserved.
     <ProjectGuid>{382ce0dc-2e1e-429c-80a5-5f5cf6545e3c}</ProjectGuid>
     <SourceWebPhysicalPath>$(MSBuildThisFileDirectory)</SourceWebPhysicalPath>
     <SourceWebVirtualPath>/BeyondToday</SourceWebVirtualPath>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <SourceWebProject>
     </SourceWebProject>
     <SourceWebMetabasePath>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bryan\\Documents\\Visual Studio\\Projects\\WebSites\\BeyondToday\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E867229D-8D78-4EA5-8403-601124044C83}|C:\\Users\\bryan\\Documents\\Visual Studio\\Projects\\WebSites\\BeyondToday|c:\\users\\bryan\\documents\\visual studio\\projects\\websites\\beyondtoday\\default.htm||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{E867229D-8D78-4EA5-8403-601124044C83}|C:\\Users\\bryan\\Documents\\Visual Studio\\Projects\\WebSites\\BeyondToday|solutionrelative:default.htm||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "default.htm",
+              "DocumentMoniker": "C:\\Users\\bryan\\Documents\\Visual Studio\\Projects\\WebSites\\BeyondToday\\default.htm",
+              "RelativeDocumentMoniker": "default.htm",
+              "ToolTip": "C:\\Users\\bryan\\Documents\\Visual Studio\\Projects\\WebSites\\BeyondToday\\default.htm",
+              "RelativeToolTip": "default.htm",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-12T23:58:13.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
